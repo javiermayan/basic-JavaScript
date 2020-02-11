@@ -1,6 +1,6 @@
 function myLocalScope() {
   'use strict'; // you shouldn't need to edit this line
-  var myVar; 
+  var myVar = "prueba"; 
   console.log(myVar); 
 }
 myLocalScope();
