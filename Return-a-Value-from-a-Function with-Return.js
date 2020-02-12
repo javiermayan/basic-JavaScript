@@ -11,4 +11,4 @@ return numero * 5;
 }
 
 console.log(minusSeven(10));
-console.log(timesFive(3));
+console.log(timesFive(3)); //outputs 15
