@@ -1,3 +1,4 @@
+```
 function nextInLine(arr, item) {
   // Your code here
 	arr.push(item);	
@@ -12,7 +13,8 @@ var testArr = [1,2,3,4,5];
 console.log("Before: " + JSON.stringify(testArr));
 console.log(nextInLine([2], 1)); // outputs 2
 console.log("After: " + JSON.stringify(testArr));
+```
 
-Lógica: 
+#### Lógica: ####
 push agrega un número al final
 shift remueve el primer elemento de la matriz y se asigna su valor a una variable.
