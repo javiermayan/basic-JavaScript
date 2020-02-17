@@ -16,5 +16,5 @@ console.log("After: " + JSON.stringify(testArr));
 ```
 
 #### Lógica: ####
-push agrega un número al final
+push agrega un número al final.  
 shift remueve el primer elemento de la matriz y se asigna su valor a una variable.
